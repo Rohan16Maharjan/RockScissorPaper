@@ -1,0 +1,23 @@
+.btn {
+	line-height: 30px;
+	width: 150px;
+}
+.container {
+	font-family: 'Time New Roman';
+	display: block;
+	margin: auto;
+	margin-top: 5rem;
+	height: 60vh;
+	width: 40%;
+	border: 3px solid;
+	border-radius: 25px;
+	padding: 10px;
+	background-color: lightgrey;
+	text-align: center;
+}
+.player {
+	color: blue;
+}
+.computer {
+	color: red;
+}
